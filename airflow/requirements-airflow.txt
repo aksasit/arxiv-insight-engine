@@ -1,3 +1,4 @@
+annotated-types==0.7.0
 asttokens==3.0.1
 certifi==2026.2.25
 charset-normalizer==3.4.6
@@ -7,6 +8,7 @@ debugpy==1.8.20
 decorator==5.2.1
 events==0.5
 executing==2.2.1
+greenlet==3.3.2
 grpcio==1.78.0
 idna==3.11
 ipykernel==7.2.0
@@ -27,15 +29,19 @@ protobuf==7.34.1
 psutil==7.2.2
 psycopg2-binary==2.9.11
 pure-eval==0.2.3
+pydantic==2.12.5
+pydantic-core==2.41.5
 pygments==2.19.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 pyzmq==27.1.0
 requests==2.32.5
 six==1.17.0
+sqlalchemy==2.0.48
 stack-data==0.6.3
 tornado==6.5.5
 traitlets==5.14.3
 typing-extensions==4.15.0
+typing-inspection==0.4.2
 urllib3==2.6.3
 wcwidth==0.6.0
